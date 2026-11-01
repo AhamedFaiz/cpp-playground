@@ -32,3 +32,4 @@ endfunction()
 include(${CMAKE_CURRENT_SOURCE_DIR}/local.cmake OPTIONAL)
 
 add_test_target(first_unique_character_test problems/0387-first-unique-character/solution_test.cpp)
+add_test_target(contains_duplicate_test problems/0217-contains-duplicate/solution_test.cpp)

@@ -13,6 +13,7 @@ Each problem lives in its own folder with:
 
 | # | Problem | Pattern | Time / Space |
 |---|---|---|---|
+| 217 | [Contains Duplicate](problems/0217-contains-duplicate) | Hashing (seen-set) / sorting | O(n) / O(n) |
 | 387 | [First Unique Character in a String](problems/0387-first-unique-character) | Hashing / counting | O(n) / O(1) |
 
 ## Building and testing
