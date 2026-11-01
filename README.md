@@ -9,6 +9,12 @@ Each problem lives in its own folder with:
 - GoogleTest tests, including edge cases
 - a diagram where one helps (Mermaid / PlantUML sources)
 
+## Problems
+
+| # | Problem | Pattern | Time / Space |
+|---|---|---|---|
+| 387 | [First Unique Character in a String](problems/0387-first-unique-character) | Hashing / counting | O(n) / O(1) |
+
 ## Building and testing
 
 Needs CMake ≥ 3.20, a C++17 compiler and GoogleTest.
