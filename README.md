@@ -13,6 +13,7 @@ Each problem lives in its own folder with:
 
 | # | Problem | Pattern | Time / Space |
 |---|---|---|---|
+| 1 | [Two Sum](problems/0001-two-sum) | Hashing (complement lookup) | O(n) / O(n) |
 | 217 | [Contains Duplicate](problems/0217-contains-duplicate) | Hashing (seen-set) / sorting | O(n) / O(n) |
 | 242 | [Valid Anagram](problems/0242-valid-anagram) | Counting (fixed alphabet) / sorting | O(n) / O(1) |
 | 387 | [First Unique Character in a String](problems/0387-first-unique-character) | Hashing / counting | O(n) / O(1) |
